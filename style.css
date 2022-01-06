@@ -146,3 +146,42 @@ a{
     display: flex;
     margin-left: 140px;
 }
+
+#dimage1{
+    margin-left: 50px;
+    display: inline;
+}
+.ddd{
+    display: flex;
+    margin-left: 50px;
+}
+.dsa{
+    width: 500px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+#dh{
+    font-size: 40px;
+    color: rgb(58, 58, 58);
+}
+.dff{
+    text-align: justify;
+    color: rgb(122, 77, 77);
+    font-weight: bolder;
+}
+.kkk{
+    margin-left: 150px;
+    margin-top: 130px;
+}
+.ooo{
+    display: flex;
+}
+#hhh{
+    font-size: 40px;
+    color: indianred;
+}
+.dff{
+    text-align: justify;
+    color: rgb(122, 77, 77);
+    font-weight: bolder;
+}
