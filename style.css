@@ -13,10 +13,12 @@ img{
 #about1{
     color:tomato;
     font-size: 50px;
+    margin-top:0px;
     
 }
 #about2{
     font-size: 50px;
+    margin-bottom: 10px;
 }
 .about2{
     border-left: 5px solid rgb(67, 67, 199);
@@ -145,6 +147,7 @@ a{
 .b3{
     display: flex;
     margin-left: 140px;
+    margin-top: 60px;
 }
 
 #dimage1{
@@ -232,7 +235,7 @@ a{
     margin-left: 350px;
 }
 .uu{
-    background: rgb(31, 138, 79);
+    background: rgb(36, 44, 40);
     padding: 20px;
     margin-top: 60px;
 }
@@ -244,8 +247,11 @@ a{
 }
 #n{
     
-    color: papayawhip;
+    color: rgb(245, 238, 229);
     text-align: center;
     font-weight:normal;
 
+}
+#p{
+    color:rgb(50, 125, 211);
 }
