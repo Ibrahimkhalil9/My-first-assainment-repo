@@ -185,3 +185,49 @@ a{
     color: rgb(122, 77, 77);
     font-weight: bolder;
 }
+#ttt{
+    color: rgb(15, 4, 4);
+    text-align: center;
+    margin-top: 80px;
+    font-size: 40px;
+    font-family: arial black;
+}
+#ttd{
+    color: rgb(204, 82, 34);
+}
+#iii{
+    width: 400px;
+   
+    
+}
+.mm{
+    display: flex;
+}
+#mmm{
+    margin-left: 350px;
+    margin-top: 100px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial black;
+}
+#nn{
+    color: rgb(161, 88, 88);
+}
+#bbb{
+    margin-left: 350px;
+    font-weight: bold;
+    color:rgb(62, 112, 161)
+}
+#cc{
+    text-decoration: none;
+    display: block;
+    background: rgb(212, 65, 55);
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border-radius:10px;
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+    margin-left: 350px;
+}
