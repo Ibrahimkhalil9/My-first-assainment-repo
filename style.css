@@ -231,3 +231,21 @@ a{
     color:white;
     margin-left: 350px;
 }
+.uu{
+    background: rgb(31, 138, 79);
+    padding: 20px;
+    margin-top: 60px;
+}
+#o{
+    color:orange;
+    font-style: italic;
+    font-size: 40px;
+    text-align: center;
+}
+#n{
+    
+    color: papayawhip;
+    text-align: center;
+    font-weight:normal;
+
+}
